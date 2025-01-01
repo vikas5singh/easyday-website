@@ -1,0 +1,3 @@
+export const BENEFITS = "BENEFITS";
+export const BENEFITS_SUCCESS = "BENEFITS_SUCCESS";
+export const BENEFITS_FAIL = "BENEFITS_FAIL";

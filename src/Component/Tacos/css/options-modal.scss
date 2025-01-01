@@ -1,0 +1,21 @@
+.x-item-option-card {
+  background-color: rgb(245, 245, 245);
+}
+
+.x-options-modal-body {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.x-options-modal-body-content {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  padding-top: var(--bs-modal-padding);
+}
+
+.x-modal-body-content-foot {
+  position: sticky;
+  bottom: 0;
+  background: #fff;
+  padding-bottom: var(--bs-modal-padding);
+}

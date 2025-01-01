@@ -1,0 +1,11 @@
+#!/bin/bash
+git push
+ssh -tt -i ~/anmol anmolkanojia@3.134.55.123 << EOF
+    cd /home/project/frontend/im-so-hungry-website-reactjs/frontend
+    git reset --hard
+    git pull
+    exit
+EOF
+
+
+#pm2 serve ./build --spa --port 3000 --name imsohungry-website 

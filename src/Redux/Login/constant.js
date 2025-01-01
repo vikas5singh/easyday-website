@@ -1,0 +1,21 @@
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGIN_USER_SUCCESS = "LOGIN_USER_SUCCESS";
+export const LOGIN_USER_FAIL = "LOGIN_USER_FAIL";
+
+export const FORGOT_PASS = "FORGOT_PASS";
+export const FORGOT_PASS_SUCCESS = "FORGOT_PASS_SUCCESS";
+export const FORGOT_PASS_FAIL = "FORGOT_PASS_FAIL";
+
+export const RESET_PASS = "RESET_PASS";
+export const RESET_PASS_SUCCESS = "RESET_PASS_SUCCESS";
+export const RESET_PASS_FAIL = "RESET_PASS_FAIL";
+
+export const LOGOUT = "LOGOUT";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const LOGOUT_FAIL = "LOGOUT_FAIL";
+
+
+export const CHANGE_PASS = "CHANGE_PASS";
+export const CHANGE_PASS_SUCCESS = "CHANGE_PASS_SUCCESS";
+export const CHANGE_PASS_FAIL = "CHANGE_PASS_FAIL";
+
